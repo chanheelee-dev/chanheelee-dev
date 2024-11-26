@@ -1,6 +1,8 @@
 ## Chanhee Lee
 I enjoy analyzing things quantitatively and making them accessible to everyone!
 
+My blog: [link](https://chanheelee-dev.github.io)
+
 <!--
 **chanheelee-dev/chanheelee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
